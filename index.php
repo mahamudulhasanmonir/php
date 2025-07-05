@@ -22,9 +22,3 @@
 // echo STATUS_PAID;
 
 //Predefined constants
-
-$foo = 'bar';
-
-$$foo = 'baz';
-
-echo "$foo, {$$foo}";
